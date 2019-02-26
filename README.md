@@ -49,6 +49,26 @@
 
 + 克隆项目到本地
 
-  
+  ```java
+  git clone https://github.com/broncho/chat-room.git
+  ```
+
+  ```java
+  cd chat-room
+  ```
 
 + 提交项目到仓库
+
+  ```java
+  git add .
+  ```
+
+  ```java
+  git commit -m xxx
+  ```
+
+  ```java
+  git push origin master
+  ```
+
+  
